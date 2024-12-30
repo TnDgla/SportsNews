@@ -81,7 +81,8 @@ This project is structured to ensure a systematic and incremental development pr
      - **Reading:** [Node.js Official Guide](https://nodejs.dev/en/learn/)  
      - **Video:** [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)  
   2. Set up the project folder structure.  
-     - **Reading:** [Node.js Folder Structure Best Practices](https://github.com/goldbergyoni/nodebestpractices#1-project-structure-practices)  
+     - **Reading:** [Node.js Folder Structure Best Practices](https://github.com/goldbergyoni/nodebestpractices#1-project-structure-practices)
+     - **Video:**[Nodejs folder](https://www.youtube.com/watch?v=oNlMrpnUSFE)
 
 - **Deliverables:**  
   - A fully initialized Node.js project with a structured folder setup.  
@@ -94,10 +95,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Configure Axios to fetch tech news from APIs.  
      - **Reading:** [Axios Documentation](https://axios-http.com/docs/intro)  
-     - **Video:** [Fetching Data with Axios](https://www.youtube.com/watch?v=0aPLk2e2Z3g)  
+     - **Video:** [Fetching Data with Axios](https://www.youtube.com/watch?v=6LyagkoRWYA&t=2s)  
   2. Render tech articles dynamically using EJS.  
      - **Reading:** [EJS Documentation](https://ejs.co/#docs)  
-     - **Video:** [Dynamic Templating with EJS](https://www.youtube.com/watch?v=zoSJ3bNGPp0)  
+     - **Video:** [Dynamic Templating with EJS](https://www.youtube.com/watch?v=Kah88N8W5rs)  
 
 - **Deliverables:**  
   - Basic news articles dynamically displayed in the browser.  
@@ -110,10 +111,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Create routes for home, search, and category pages.  
      - **Reading:** [Express.js Routing](https://expressjs.com/en/guide/routing.html)  
-     - **Video:** [Routing in Express.js](https://www.youtube.com/watch?v=0KCf3nrSXjQ)  
+     - **Video:** [Routing in Express.js](https://www.youtube.com/watch?v=7H_QH9nipNs&t=783s)  
   2. Implement a search bar in EJS and handle user input.  
      - **Reading:** [Handling Forms in Node.js](https://expressjs.com/en/api.html#req.body)  
-     - **Video:** [Search Bar Implementation in Node.js](https://www.youtube.com/watch?v=ppGDRIInffE)  
+     - **Video:** [Search Bar Implementation in Node.js](https://www.youtube.com/watch?v=SdzMBWT2CDQ&t=591s)  
 
 - **Deliverables:**  
   - Functional search bar with dynamic routing.  
@@ -129,7 +130,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [SCSS Crash Course](https://www.youtube.com/watch?v=_a5j7KoflTs)  
   2. Style the search bar, navigation, and articles for a professional look.  
      - **Reading:** [Responsive Design with SCSS](https://sass-lang.com/documentation/at-rules/media)  
-     - **Video:** [Building Responsive Designs](https://www.youtube.com/watch?v=jDm4BF-GiQU)  
+     - **Video:** [Building Responsive Designs](https://www.youtube.com/watch?v=srvUrASNj0s&t=29s)  
 
 - **Deliverables:**  
   - A visually appealing and responsive TechNews application.  
@@ -145,7 +146,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Postman Tutorial](https://www.youtube.com/watch?v=VywxIQ2ZXw4)  
   2. Deploy the app to Heroku or Vercel.  
      - **Reading:** [Heroku Deployment Guide](https://devcenter.heroku.com/articles/deploying-nodejs)  
-     - **Video:** [Deploying Node.js Apps](https://www.youtube.com/watch?v=SbdUUu2DpQc)  
+     - **Video:** [Deploying Node.js Apps](https://www.youtube.com/watch?v=DQk3zJlY-eE&t=12s)  
 
 - **Deliverables:**  
   - A fully deployed and functional TechNews application.  
